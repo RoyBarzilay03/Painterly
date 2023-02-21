@@ -1,0 +1,3 @@
+name: aws-painterly
+runtime: nodejs
+description: AWS TypeScript Pulumi program for Painterly
